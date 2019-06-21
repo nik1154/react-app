@@ -8,5 +8,5 @@ A React Boilerplate
 4. Install dependencies in both server and client by the command, => npm install =>cd client=>npm install
 
 # Running the App
-Run both server and client by the command, =>npm run dev
-To run only the client run the following, =>cd client=>npm run start
+1. Run both server and client by the command, =>npm run dev
+2. To run only the client run the following, =>cd client=>npm run start
